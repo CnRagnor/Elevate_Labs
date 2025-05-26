@@ -1,0 +1,61 @@
+# Nmap 7.95 scan initiated Mon May 26 04:36:46 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN Scan_results.html 192.168.174.129/24
+Nmap scan report for 192.168.174.1
+Host is up (0.00066s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE    SERVICE
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+902/tcp  filtered iss-realsecure
+912/tcp  filtered apex-mesh
+2869/tcp filtered icslap
+MAC Address: 00:50:56:C0:00:08 (VMware)
+
+Nmap scan report for 192.168.174.2
+Host is up (0.00032s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 00:50:56:E7:72:EC (VMware)
+
+Nmap scan report for 192.168.174.129
+Host is up (0.0021s latency).
+Not shown: 977 closed tcp ports (reset)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+8009/tcp open  ajp13
+8180/tcp open  unknown
+MAC Address: 00:0C:29:FA:DD:2A (VMware)
+
+Nmap scan report for 192.168.174.254
+Host is up (0.00026s latency).
+All 1000 scanned ports on 192.168.174.254 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:FC:33:0D (VMware)
+
+Nmap scan report for 192.168.174.128
+Host is up (0.0000040s latency).
+All 1000 scanned ports on 192.168.174.128 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon May 26 04:36:55 2025 -- 256 IP addresses (5 hosts up) scanned in 9.80 seconds
