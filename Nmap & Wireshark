@@ -1,0 +1,12 @@
+# Network Port Discovery and Packet Analysis
+
+## Objective  
+Learn to discover open ports on devices in your local network to understand network exposure and analyze network traffic to identify potential security risks.
+
+---
+
+## Tools  
+- **Nmap** (Network Mapper) - a free and open-source network scanning tool.  
+- **Wireshark** (optional) - a powerful network protocol analyzer for packet capture and analysis.  
+
+----
