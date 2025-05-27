@@ -5,7 +5,7 @@ Identify phishing characteristics in a suspicious email sample to improve awaren
 
 ## Tools  
 - Email client or saved email file (text)  
-- Free online header analyzer ([MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx))  
+- Free online header analyzer ([MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx), Keepnet)
 
 ## Steps  
 1. **Obtain a Sample Phishing Email**  
@@ -31,7 +31,37 @@ Identify phishing characteristics in a suspicious email sample to improve awaren
    - **Suspicious Indicators Found:** List phishing traits identified.  
    - **Header Analysis Results:** Highlight inconsistencies.  
    - **Link & Attachment Review:** Describe flagged elements.  
-   - **Conclusion:** Explain why the email appears fraudulent.  
+   - **Conclusion:** Explain why the email appears fraudulent.
+  
+## Phishing Email Alert: How to Spot a Scam Fast    
+
+Wondering if that email in your inbox is trying to trick you? If you answer "yes" to any of these signs, be cautious—it could be a scam.    
+Check Who Sent It
+
+    Is the sender’s address from a generic provider like Gmail but claiming to be a company?
+    Is the website domain just a little off or misspelled (like amaz0n instead of amazon)?
+    Does the sender’s email look different from what you usually get from that company?    
+
+Read the Message Carefully
+
+    Are there typos or awkward grammar mistakes?
+    Does it pressure you to act immediately, with phrases like “Urgent” or “Your account will be suspended”?
+    Does the tone feel unusual or not like the normal communication style you’re familiar with?    
+
+Inspect Links and Attachments
+
+    Does the link’s URL not match the clickable text?
+    Did they include attachments you weren’t expecting?
+    Are the buttons or links vague, saying things like “Click here” or “Verify now”?    
+
+Watch Out for Pressure Tactics
+
+    Are they asking for sensitive details like passwords or personal info?
+    Do they urge you to ignore normal company procedures?
+    Do they threaten consequences if you don’t respond quickly?    
+
+If any of this rings true, don’t click or download anything. Instead, get in touch with the company directly using a verified contact source before taking any action.    
+Stay safe and always double-check suspicious emails!    
 
 ## Outcome  
 Enhancing awareness of phishing tactics and improving email threat analysis skills to stay protected against cyber threats.  
